@@ -1,0 +1,30 @@
+################################################################################
+# Intro 
+
+This is a plugin for vimperator that lets you use the digikey search engine 
+to search for stuff (part numbers, strings, whatever..).
+
+
+################################################################################
+# Installation
+
+1) Install vimperator.  If you want this plugin, you've probably done that 
+	already.
+2) Create ~/.vimperator/plugins if it doesn't exist.
+3) Copy digikeysearch.js into ~/.vimperator/plugins
+4) Restart firefox via :restart
+
+
+################################################################################
+# Usage
+
+Using one of the following commands, will open a new tab with the results of 
+the digikey search.
+
+:digikey <search terms>
+:dk <search terms>
+
+
+################################################################################
+# TODO / Wishlist
+
